@@ -70,13 +70,13 @@ The following are genuine screenshots from the running program, saved in `screen
 
 ## Verification Checklist
 
-- [ ] Code compiles and runs.
-- [ ] No custom classes or OOP constructs are used.
-- [ ] No built-in sorting calls are used.
-- [ ] Parallel `ArrayList`s stay synchronized after add, update, remove, and sort.
-- [ ] Queue is FIFO, drives ticket service, and is unaffected by sorting.
-- [ ] Bad input, empty lists/queues, and missing IDs are handled.
-- [ ] All eight README sections and the screenshot filename list are present.
+- [x] Code compiles and runs.
+- [x] No custom classes or OOP constructs are used.
+- [x] No built-in sorting calls are used.
+- [x] Parallel `ArrayList`s stay synchronized after add, update, remove, and sort.
+- [x] Queue is FIFO, drives ticket service, and is unaffected by sorting.
+- [x] Bad input, empty lists/queues, and missing IDs are handled.
+- [x] All eight README sections and the screenshot filename list are present.
 
 ## Suggested Git Commits
 
