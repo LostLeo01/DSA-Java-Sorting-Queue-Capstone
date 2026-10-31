@@ -56,13 +56,13 @@ Use the numbered main menu. New tickets are automatically added to the FIFO queu
 
 ## 8. Screenshots of the System
 
-Capture genuine screenshots from your running program and save them in `screenshots/` using these exact filenames. The folder currently contains no fabricated screenshots.
+The following are genuine screenshots from the running program, saved in `screenshots/`.
 
 | Filename | Caption and what to show |
 |---|---|
 | `main-menu.png` | Main menu with all options and the exit option visible. |
 | `add-and-display-records-1.png`, `add-and-display-records-2.png`, `add-and-display-records.png` | First ticket added, second ticket added, then both tickets displayed. |
-| `queue-operations-1.png`, `queue-operations-2.png`, `queue-operations-3.png`, `queue-operations-4.png` |Queue display, peek/dequeue, enqueue and display, then queue check. |
+| `queue-operations.png`, `queue-operations-2.png`, `queue-operations-3.png`, `queue-operations-4.png` | Queue display, peek/dequeue, enqueue and display, then queue check. |
 | `fifo-behavior.png` | Add two tickets in a known order, display the queue, then dequeue twice so the first added ticket is served first. |
 | `sorting-algorithm-1.png` | Bubble Sort output showing records before and after sorting by priority. |
 | `sorting-algorithm-2.png` | Insertion Sort output showing records before and after sorting by requester name. |
