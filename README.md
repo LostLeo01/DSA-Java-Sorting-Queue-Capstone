@@ -61,8 +61,8 @@ Capture genuine screenshots from your running program and save them in `screensh
 | Filename | Caption and what to show |
 |---|---|
 | `main-menu.png` | Main menu with all options and the exit option visible. |
-| `add-and-display-records.png` | Add at least two tickets, then display their stored fields. |
-| `queue-operations.png` | Queue menu with enqueue, dequeue, peek, display, and empty-check operations; show these operations in use. |
+| `add-and-display-records-1.png`, `add-and-display-records-2.png`, `add-and-display-records.png` | First ticket added, second ticket added, then both tickets displayed. |
+| `queue-operations-1.png`, `queue-operations-2.png`, `queue-operations-3.png`, `queue-operations-4.png` |Queue display, peek/dequeue, enqueue and display, then queue check. |
 | `fifo-behavior.png` | Add two tickets in a known order, display the queue, then dequeue twice so the first added ticket is served first. |
 | `sorting-algorithm-1.png` | Bubble Sort output showing records before and after sorting by priority. |
 | `sorting-algorithm-2.png` | Insertion Sort output showing records before and after sorting by requester name. |
